@@ -1,3 +1,5 @@
+![](https://ethandmello.github.io/github-image/Ethan%20and%20Nathan%20on%20chair%20lift.jpg)
+
 # Ethans Github :)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-dmello/)
