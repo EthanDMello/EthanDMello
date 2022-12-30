@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-dmello/)
 
-Grim and Funky | 👾 Fullstack Developer | 🗺️ Birmingham, UK
+Fullstack Web Developer | Birmingham, UK | Tech fan
+
 - 👋 Hi, I’m @EthanDMello
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
