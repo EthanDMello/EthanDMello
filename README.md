@@ -1,4 +1,4 @@
-![](https://ethandmello.github.io/github-image/Ethan%20and%20Nathan%20on%20chair%20lift.jpg)
+![](https://ethandmello.github.io/github-image/mountain.jpg)
 
 # Ethans Github :)
 
@@ -6,8 +6,10 @@
 
 Fullstack Web Developer | Birmingham, UK | Tech fan
 
-- 👋 Hi, I’m @EthanDMello
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my Github.
+
+Recently completed a certificate in Full Stack Web Development and looking for my first job.
+
+Big fan of cycling, hip hop, tech and games.
+
+e.n.dmello@live.com
